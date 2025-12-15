@@ -1,0 +1,55 @@
+TABLE: users
+Total rows: 8
+Null values per column:
+user_id          0
+role_id          0
+full_name        0
+email            0
+password_hash    0
+is_active        0
+created_at       0
+updated_at       0
+deleted_at       8
+deleted_by       8
+dtype: int64
+----------------------------------------
+TABLE: products
+Total rows: 59
+Null values per column:
+product_id      0
+name            0
+description    26
+price           0
+stock           0
+is_active       0
+created_at      0
+updated_at      0
+deleted_at     18
+deleted_by     59
+category        5
+dtype: int64
+----------------------------------------
+TABLE: orders
+Total rows: 36
+Null values per column:
+order_id         0
+user_id          0
+status           0
+total_amount     0
+created_at       0
+updated_at       0
+is_active        0
+deleted_at      36
+deleted_by      36
+dtype: int64
+----------------------------------------
+TABLE: order_items
+Total rows: 32
+Null values per column:
+order_item_id    0
+order_id         0
+product_id       0
+quantity         0
+total_price      0
+dtype: int64
+----------------------------------------

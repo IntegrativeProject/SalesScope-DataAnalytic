@@ -1,0 +1,15 @@
+DATA CLEANING REPORT
+==================================================
+
+OUTLIER ANALYSIS
+Quantity outliers detected: 3
+Price outliers detected: 12
+Order total outliers detected: 6
+
+DATE VALIDATION
+Orders with future dates: 21
+Orders with invalid dates: 0
+
+INTEGRITY CHECKS
+Order items with non-existing products: 0
+Orders without items: 4
