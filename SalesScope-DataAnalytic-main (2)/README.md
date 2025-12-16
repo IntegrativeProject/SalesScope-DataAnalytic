@@ -98,5 +98,3 @@ Contributions are welcome. Suggested improvements:
 No license specified — contact the project owner for clarification.
 
 -----
-
-Would you like me to also add a `.env.example` file and update `requirements.txt` or create a short `CONTRIBUTING.md`?
